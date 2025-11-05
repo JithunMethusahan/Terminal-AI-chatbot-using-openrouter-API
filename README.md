@@ -93,14 +93,4 @@ We are committed to providing a welcoming and inclusive environment for all cont
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
-This README provides a professional structure with clear sections for easy navigation. It includes:
 
-- A concise title and description
-- Badges for license and PRs (using placeholders since actual URLs aren't provided)
-- A table of contents for longer READMEs
-- Clear installation and usage instructions
-- Configuration details for advanced users
-- A contributing section to encourage community involvement
-- A standard MIT license notice
-
-The template follows the "simple-complex" style by starting with a clean, minimal setup but including advanced sections for those who want to dive deeper.
